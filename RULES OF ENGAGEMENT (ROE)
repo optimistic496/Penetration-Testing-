@@ -1,0 +1,117 @@
+# 🛡️ Rules of Engagement (ROE)
+Penetration Testing Engagement
+
+---
+
+## 📌 Purpose
+
+This document defines how penetration testing activities will be conducted to ensure safety, legality, and minimal disruption.
+
+---
+
+## 🕒 Testing Schedule
+
+- Non-invasive testing: During business hours
+- Invasive testing: Between 2:00 AM – 6:00 AM (Friday – Sunday)
+
+---
+
+## 📡 Communication Protocol
+
+- Primary communication: Reports and teleconferences
+- Critical vulnerabilities: Immediate notification to client
+- Escalation: Contact designated IT/security personnel
+
+---
+
+## 🚫 Prohibited Activities
+
+The following actions are NOT permitted:
+
+- Denial-of-Service (DoS) attacks
+- Testing outside defined scope
+- Unauthorized data exfiltration
+- Accessing third-party systems
+
+---
+
+## ⚙️ Security Controls
+
+The following controls are active during testing:
+
+- Firewalls
+- Intrusion Detection Systems (IDS)
+
+Note: Testing must account for active security controls.
+
+---
+
+## 🔐 Sensitive Data Handling
+
+- All sensitive data must be handled securely
+- No unnecessary data extraction
+- NDA must be signed prior to testing
+- Any accidental exposure must be reported immediately
+
+---
+
+## 🌐 Testing Origin
+
+- Testing will originate from:
+  - Internal IT Department VLAN
+
+---
+
+## 🧪 Allowed Testing Activities
+
+- Internal network testing
+- Vulnerability scanning
+- Controlled exploitation (proof-of-concept only)
+
+---
+
+## ⚠️ Incident Handling
+
+If any system instability or disruption occurs:
+
+1. Testing must stop immediately  
+2. Client must be notified  
+3. Issue must be documented  
+
+---
+
+## 🛑 Kill Switch
+
+Testing must be stopped immediately if:
+
+- Critical systems are impacted
+- Data integrity is at risk
+- Client requests termination
+
+---
+
+## 👥 Client Contacts
+
+Primary contacts include:
+
+- Warehouse Manager  
+- IT Director  
+- Operations Manager  
+
+---
+
+## ⚖️ Legal & Ethical Compliance
+
+All testing must:
+
+- Stay within authorized scope  
+- Comply with applicable laws  
+- Follow ethical hacking standards  
+
+---
+
+## ⚠️ Disclaimer
+
+This ROE is for educational purposes and should be reviewed by a legal professional before real-world use.
+
+---
