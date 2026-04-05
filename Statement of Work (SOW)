@@ -1,0 +1,110 @@
+# 📄 Statement of Work (SOW)
+Penetration Testing Engagement
+
+---
+
+## 📌 Overview
+
+This Statement of Work (SOW) defines the specific scope, targets, and deliverables for the penetration testing engagement.
+
+This document works alongside the main Penetration Testing Agreement.
+
+---
+
+## 🎯 Objectives
+
+The objectives of this engagement are to:
+
+- Identify security vulnerabilities in defined systems
+- Assess real-world exploitability
+- Evaluate security controls (firewalls, IDS)
+- Provide actionable remediation recommendations
+
+---
+
+## 🧪 Scope of Testing
+
+### In-Scope Assets
+
+- Internal IT Department VLAN
+- Operations and logistics servers
+- Development environment (SQL testing only)
+
+---
+
+### Out-of-Scope Assets
+
+- Production SQL databases
+- Any system not explicitly listed
+- Third-party systems without authorization
+
+---
+
+## 🧰 Testing Types
+
+The following testing activities are authorized:
+
+- Internal network penetration testing
+- Vulnerability scanning
+- Configuration review
+- Limited SQL testing (development environment only)
+
+---
+
+### Restricted Activities
+
+- Social engineering limited to provided email addresses only
+- No testing beyond approved targets
+- No destructive testing on production systems
+
+---
+
+## 🕒 Timeline
+
+- Start Date: Two weeks from agreement signing
+- Testing Duration: Up to 60 days
+- Reporting: Final report delivered at end of engagement
+
+---
+
+## 📍 Location of Testing
+
+- Primary Location: Houston Facility
+- Remote/Internal Testing via VLAN access
+
+---
+
+## 📦 Deliverables
+
+The following deliverables will be provided:
+
+- Initial Findings Report
+- Full Technical Report
+- Executive Summary
+- Vulnerability Risk Register
+- Remediation Recommendations
+
+---
+
+## 👥 Client Responsibilities
+
+The Client agrees to:
+
+- Provide necessary access to systems
+- Ensure systems are backed up before testing
+- Provide test accounts where required
+- Notify internal teams of testing activities
+
+---
+
+## 🔐 Confidentiality
+
+All findings and data obtained during testing will be treated as confidential and handled according to agreed data protection standards.
+
+---
+
+## ⚠️ Disclaimer
+
+This SOW is for educational purposes and does not constitute legal advice.
+
+---
