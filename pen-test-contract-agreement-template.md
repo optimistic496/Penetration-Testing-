@@ -63,7 +63,7 @@ In the event of a critical finding or disruption to systems, the Provider will i
 ### 3.1 Testing Window
 - **Start Date:** [START DATE]
 - **End Date:** [END DATE]
-- **Permitted Testing Hours:** [e.g., 09:00–17:00 local time / 24×7 / specify]
+- **Permitted Testing Hours:** [e.g., 09:00–17:00 local time / 24x7 / specify]
 
 ### 3.2 Testing Approach
 - **Methodology:** [e.g., Black-box / Grey-box / White-box]
@@ -80,7 +80,7 @@ The Provider **must not** perform the following without prior written approval:
 
 ### 3.4 Data Handling
 - All data accessed or collected during the engagement will be treated as confidential.
-- Sensitive data (e.g., PII, credentials) discovered during testing will be documented by reference only and **will not** be exfiltrated or retained beyond what is necessary to produce the deliverables.
+- Sensitive data (e.g., PII, credentials) discovered during testing will be documented by reference only and **will not** be exfiltrated (i.e., unauthorized removal or copying of data) or retained beyond what is necessary to produce the deliverables.
 - All data collected during testing will be securely destroyed within [NUMBER] days after delivery of the final report.
 
 ---
@@ -170,7 +170,7 @@ The Client agrees to indemnify, defend, and hold harmless the Provider and its e
 The Client represents that it has the legal right and authority to authorize penetration testing of all systems listed in Section 1.1, including any cloud-hosted or co-located infrastructure subject to third-party terms of service.
 
 ### 9.2 Third-Party Notifications
-The Client is responsible for notifying any relevant third parties (e.g., internet service providers, cloud platform providers, managed service providers) of the planned testing to comply with applicable terms of service and applicable law.
+The Client is responsible for notifying any relevant third parties (e.g., internet service providers, cloud platform providers, managed service providers) of the planned testing to comply with applicable terms of service and laws.
 
 ### 9.3 Governing Law
 This Agreement shall be governed by and construed in accordance with the laws of the State/Country of **[JURISDICTION]**, without regard to its conflict of law provisions.
